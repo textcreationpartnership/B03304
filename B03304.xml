@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A commission impowering the persons therein named, to hear and determine severall matters and things concerning the work of dreyning the great levell of the fenns.</title>
+            <author>England and Wales. Council of State.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03304</idno>
+            <idno type="STC">Wing E772B</idno>
+            <idno type="STC">ESTC R174318</idno>
+            <idno type="EEBO-CITATION">52529146</idno>
+            <idno type="OCLC">ocm 52529146</idno>
+            <idno type="VID">178773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178773)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2770:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A commission impowering the persons therein named, to hear and determine severall matters and things concerning the work of dreyning the great levell of the fenns.</title>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Initial letter.</note>
+                  <note>With seal of Council of State at head of text.</note>
+                  <note>Order to print dated: Tuesday June 28. 1653. Signed: John Thurloe Secr.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drainage laws --  England --  Early works to 1800.</term>
+               <term>Fens, The (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_mandate">
+            <pb n="1" facs="tcp:178773:1"/>
+            <!-- PDF PAGE 28 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>A COMMISSION Improwering the Perſons therin named, to hear and determine ſeverall Matters and things concerning the Work of Dreyning the great Levell of the Fenns.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by an Act of Parliament, entituled, <hi>An Act for the Dreyning of the great Levell of the Fenns extend<g ref="char:EOLhyphen"/>ing it ſelf into the Counties of Northampton, Norfolk, suffolk, Lincoln, Cambridge, Huntington, and the Iſle of Ely,</hi> ſeverall Perſons therein particularly named, were appointed Commiſſioners, and ther<g ref="char:EOLhyphen"/>by Impowred by view or otherwiſe, as to them ſhould ſeem meet, from time to time, when and as often as any part of the ſaid Levell, a<g ref="char:EOLhyphen"/>mounting
+<pb n="2" facs="tcp:178773:2"/>
+               <!-- PDF PAGE 29 -->
+to the quantity of <hi>30000</hi> Acres or more ſhould be dreyned as aforeſaid, to judge the ſame to be dreyned, and forthwith to give unto <hi>William</hi> Earl of <hi>Bedford, Edward Ruſſel, Ro<g ref="char:EOLhyphen"/>bert Henley,</hi> and <hi>Robert Caſtle,</hi> 
+               <abbr>Eſqs</abbr> their Heirs and Aſſigns, upon ſuch Truſt as is expreſt in the ſaid Act, Seiſin and Poſſeſſion of his and their Proportions of ninety five thouſand Acres formerly ſet forth unto them; And wher<g ref="char:EOLhyphen"/>as the ſaid Commiſſioners have, in purſuance of the ſaid Act, at ſeveral times adjudged the ſaid Level dreined, and delivered Poſſeſſion and Sei<g ref="char:EOLhyphen"/>ſin of the <hi>95000</hi> Acres accordingly, And wher<g ref="char:EOLhyphen"/>as, by the ſaid Act, the term of three years from and after the ſaid Adjudication is limitted for the ſaid Commiſſioners to give relief in ſeveral Caſes expreſt in the ſaid Act, In which time it will not be poſſible, through the multitude of the Petitions that are dayly exhibited to them, to hear and determine the ſeveral Caſes and Com<g ref="char:EOLhyphen"/>plaints of Perſons who pretend damage by the Adventurers cutting through their Lands, or to be otherwiſe relieved within the ſaid Act of Parliament, eſpecially ſeeing the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners ſit very ſeldome, And their meeting u<g ref="char:EOLhyphen"/>ſually in the Middle Temple Hall, which is a great diſtance from the Levell, and thereby the Petitioners put to great Expence, and travel, in ſeeking their relief, Therefore we being willing to provide for the juſt eaſe of all perſons concern<g ref="char:EOLhyphen"/>ed herein, and repoſing Truſt and Confidence in the prudence, honeſty, and diſcretion of Sir <hi>John Hobbart,</hi> Sir <hi>Ralph Hare, John Gurdon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Sa<g ref="char:EOLhyphen"/>muel Moody</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho. Hatcher</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>James Berry,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Talbot Pepys, Tho. Bendiſh, Rob. Brewſter, Tho. Duc<g ref="char:EOLhyphen"/>ket, John Cleypool</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Rob. Vintner, theelder, Triſtram
+<pb n="3" facs="tcp:178773:2"/>
+                  <!-- PDF PAGE 29 -->
+Diamond</hi> 
+               <abbr>Eſq</abbr> Dr. <hi>Richard Stanes, Hen. Ferrour</hi> Gent. Mr. <hi>Joſeph Everſden,</hi> Captain <hi>Moyſes,</hi> Mr. <hi>Richard Timbs,</hi> Dr. <hi>Syncots,</hi> Mr. <hi>Robert Robſon,</hi> Mr. <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Barber</hi> of <hi>Denver,</hi> Mr. <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Life</hi> of <hi>Downham,</hi> and Mr. <hi>Robert Carrier</hi> of <hi>Peterburgh,</hi> Have Appointed, Conſtituted and Authorized, and by theſe Pre<g ref="char:EOLhyphen"/>ſents do Appoint, Conſtitute and Authorize them the ſaid Sir <hi>John Hobbart,</hi> Sir <hi>Ralph Hare, John Gurdon</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Samuel Moody</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Tho. Hatcher, James Berry,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Talboth Pepys, Tho. Bendiſh, Rob. Brewſter, Tho Ducket, John Cleypool</hi> 
+               <abbr>Eſq</abbr> Rob. Vint<g ref="char:EOLhyphen"/>ner, the elder, Triſtram Diamond <abbr>Eſq</abbr> Dr. <hi>Rich Stanes, Hen. Ferrour</hi> Gent. <hi>M. Joſeph Everſden,</hi> Captain <hi>Moy<g ref="char:EOLhyphen"/>ſes,</hi> Mr. <hi>Rich. Timbs,</hi> Dr. <hi>Syncots,</hi> Mr. <hi>Rob. Robſon,</hi> Mr. <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Barber</hi> of <hi>Denver,</hi> Mr. <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Life</hi> of <hi>Down<g ref="char:EOLhyphen"/>ham,</hi> and Mr. <hi>Robert Carrier,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r any ſix or more of them, to be Commisſioners to hear and exa<g ref="char:EOLhyphen"/>mine the Petitions, Complaints, Matters, and Things, for which the Commiſſioners named in the ſaid Act can or may by vertue thereof, or any Clauſe or Article therein, give relief, not ha<g ref="char:EOLhyphen"/>ving been before ordered, ſettled and adjudged by the ſaid Commiſſioners named in the ſaid Act, And either to determine, order and adjudge all ſuch Complaints, Matters, and Things, ac<g ref="char:EOLhyphen"/>cording to the true intent and meaning of the ſaid Act, or otherwiſe to tranſmit the ſame or ſuch of them as they ſhall think fit, with the ſtate of the Caſe, to the ſaid Commisſioners named in the ſaid Act, for their Final Determination. And the ſaid Commisſioners, or any ſix of them, have hereby Power for executing the Premiſſes to meet at the <hi>Bell</hi> at <hi>Ely</hi> upon the <hi>20</hi> day of <hi>July</hi> next, And are hereby impowered from time to time to adjourn their meeting to ſuch other time and place as they ſhall think fit, and to ſend for
+<pb n="4" facs="tcp:178773:3"/>
+               <!-- PDF PAGE 30 -->and to examine Witneſſes upon oath, which any ſix or more of them have Power to adminiſter to any Perſon or Perſons whatſoever. And ſuch Orders, Directions, and Iudgements, as the ſaid Commiſſioners, or any <hi>6</hi> of them, ſhall make, in, and conceruing the Premiſſes, ſhall be as effectual to all intents and purpoſes, as if the Commiſſioners named in the ſaid Act, had Or<g ref="char:EOLhyphen"/>dered, Directed, and Adjudged the ſame. And all Perſons are required to give obedience thereun<g ref="char:EOLhyphen"/>to: And all Mayors, Sheriffs, and other Of<g ref="char:EOLhyphen"/>ficers and Miniſters, as well Civil as Military, are hereby required to be aiding and aſſiſting in all and ſingular the Premiſſes. And this Autho<g ref="char:EOLhyphen"/>rity and Commiſſion ſhall continue and be in force untill the <hi>24.</hi> day of <hi>June,</hi> which ſhall be in the year of our Lord God one thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty four, and no longer.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Tueſday June 28. 1653.</date>
+               </dateline>
+            </opener>
+            <p>At the Council of State at White-Hall, Ordered, That this Declaration be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>John Thurloe</hi> Secr.</signed>
+            </closer>
+            <pb facs="tcp:178773:3"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
